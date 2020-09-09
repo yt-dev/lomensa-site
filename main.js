@@ -153,10 +153,10 @@
 								$submit.disabled = false;
 
 							// Show message.
-								$message._show('success', 'Thank you!');
-								//$message._show('failure', 'Something went wrong. Please try again.');
+								// $message._show('success', 'Sent');
+								$message._show('failure', 'In development');
 
-						}, 750);
+						}, 100);
 
 				});
 
