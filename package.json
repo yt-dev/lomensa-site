@@ -1,0 +1,23 @@
+{
+  "name": "lomensa-site",
+  "version": "1.0.0",
+  "description": "[Lorem](https://yt-dev.github.io/lomensa-site/)",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yt-dev/lomensa-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yt-dev/lomensa-site/issues"
+  },
+  "homepage": "https://github.com/yt-dev/lomensa-site",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
