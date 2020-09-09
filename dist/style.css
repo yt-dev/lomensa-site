@@ -718,13 +718,13 @@ form .message.success {
   color: #1cb495;
 }
 form .message.success:before {
-  content: '\f00c';
+  content: '✔️';
 }
 form .message.failure {
   color: #ff2361;
 }
 form .message.failure:before {
-  content: '\f119';
+  content: '✖️';
 }
 
 label {
